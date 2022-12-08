@@ -1,0 +1,39 @@
+body {
+  background-color: powderblue;
+  background-image: url('https://th.bing.com/th/id/R.069c1d0059394b0a09bb0cb5c116797f?rik=y48D0Uqu4hIYlw&riu=http%3a%2f%2fcdn.wallpapersafari.com%2f84%2f75%2f48HuRN.jpg&ehk=IaiDOnHG66STe0JASeGnBz3GntRZbxCYlL9kOqyp4E0%3d&risl=&pid=ImgRaw&r=0');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+ color:blue;
+}
+
+h2 {
+  color:rgb(150,150,200);
+}
+
+ul {
+  color: rgb(200,200,100);
+}
+
+ a:link {
+   color: green;
+   background-color: transparent;
+   text-decoration: none;
+}
+ a:visited {
+   color: pink;
+   background-color: transparent;
+   text-decoration: none;
+}
+ a:hover {
+   color: red;
+   background-color: transparent;
+   text-decoration: underline;
+}
+ a:active {
+   color: yellow;
+   background-color: transparent;
+   text-decoration: underline;
+}
